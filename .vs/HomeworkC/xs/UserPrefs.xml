@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D12C69A1-889B-436D-89AC-3DF249C922AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Page61Ex1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Page61Ex20 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Page106Ex2/Program.cs">
+    <Files>
+      <File FileName="HomeworkC/Program.cs" Line="12" Column="10" />
+      <File FileName="Page106Ex2/Program.cs" Line="28" Column="2" />
+      <File FileName="Page61Ex1/Program.cs" Line="14" Column="36" />
+      <File FileName="Page61Ex20/Program.cs" Line="89" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeworkC" expanded="True">
+            <Node name="Page106Ex2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Page28Ex12" expanded="True" />
+            <Node name="Page61Ex1" expanded="True" />
+            <Node name="Page61Ex20" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Page28Ex12 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Page106Ex2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
